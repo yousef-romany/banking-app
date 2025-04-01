@@ -116,7 +116,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
               </SheetContent>
             </Sheet>
             <Link href="/dashboard" className="flex items-center gap-2 font-bold">
-              <span>نكس بنك</span>
+              <span>أداره بنوكى</span>
             </Link>
           </div>
           <div className="flex items-center gap-2">
